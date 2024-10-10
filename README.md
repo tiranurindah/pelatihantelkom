@@ -1,0 +1,2 @@
+# pelatihantelkom
+AI dan IoT 
